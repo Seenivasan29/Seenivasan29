@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Seenivasan M J</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Seenivasan+M+J;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+🚀" />
+</h1>
+
 <h3 align="center">🚀 CSE Student | Full Stack Developer | Cloud & DevOps Enthusiast</h3>
 
 ---
@@ -31,7 +34,23 @@
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions" />
+</p>
+
+---
+
+## 🔄 DevOps Pipeline
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Deploy-EC2-success?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+<p align="center">
+  🚀 Code → Build → Test → Dockerize → Deploy → Live
 </p>
 
 ---
@@ -39,17 +58,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seenivasan29&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Seenivasan29&show_icons=true&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seenivasan29&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 🧠 Currently Learning
-- ☁️ AWS (EC2, S3, IAM)
-- 🐳 Docker & Containerization
-- ⚙️ CI/CD Pipelines (GitHub Actions)
-- 📦 System Design Basics
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/CI/CD-Automation-purple?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes"/>
+</p>
 
 ---
 
@@ -67,9 +92,17 @@
 
 ---
 
+## 🧑‍💼 Achievements
+- 🏆 Built AI-powered **Smart Billing System (IoT + ML)**  
+- 🚀 Developed full-stack applications  
+- ⚙️ Hands-on with **Docker, AWS, CI/CD**  
+- 📈 Focused on becoming a **Cloud & DevOps Engineer**  
+
+---
+
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:vseeni185@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -84,7 +117,7 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I love building projects that solve real-world problems using **AI + Cloud + Automation**
+💡 I love building systems that combine **AI + Cloud + Automation**
 
 ---
 
